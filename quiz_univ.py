@@ -569,9 +569,9 @@ question_bank = [
             "a. 12 in the easy group and 12 in the hard group.",
             "b. 16 in the easy group and 15 in the hard group.",
             "c. 16 in the easy group and 14 in the hard group.",
-            "d. 12 in the easy group and 11 in the hard group."
+            "d. 12 in the easy group and 12 in the hard group."
         ],
-        "answer": "c"
+        "answer": "d"
     },
     {
         "question": "Why does bootstrapping provide a solution when both normality and variance homogeneity assumptions are violated?",
